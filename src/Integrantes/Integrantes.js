@@ -42,7 +42,7 @@ export function Integrantes(){
                                     <h2>{integrante.edad + " Años"}</h2>
                                     <h2>{integrante.instrumento}</h2>
 
-                                </div>
+                                </div>   
                             </diV>
                         </>
                     )
