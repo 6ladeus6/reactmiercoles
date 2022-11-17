@@ -14,7 +14,7 @@ export function Menu(){
         <Link className="nav-link active" aria-current="page" to="/">Home</Link>
         <Link className="nav-link" to="/historia">Historias</Link>
         <Link className="nav-link" to="/integrantes">Integrantes</Link>
-        <Link className="nav-link disabled">Disabled</Link>
+        <Link className="nav-link" to="/musica">Musica</Link>
       </div>
     </div>
   </div>

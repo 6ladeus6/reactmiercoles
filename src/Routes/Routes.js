@@ -15,6 +15,7 @@ export  function Rutas(){
         <Route path="/" element={<Home />} />
         <Route path="historia" element={<Historia />} />
         <Route path="integrantes" element={<Integrantes />} />
+        <Route path="musica" element={<Music />} />
       </Routes>
     </div>
     )
